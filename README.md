@@ -217,7 +217,7 @@ footer{
 
         <div class="match">
           <span>Fern Creek Red</span>
-          <span class="score">5 - 0</span>
+          <span class="score">0 - 5</span>
           <span>Sawyer</span>
         </div>
 
