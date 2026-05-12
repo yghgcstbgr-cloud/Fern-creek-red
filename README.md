@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -149,6 +148,7 @@ footer{
 <nav>
   <a href="#scores">Final Scores</a>
   <a href="#games">Upcoming Games</a>
+  <a href="#news">Team News</a>
   <a href="#players">Team Info</a>
 </nav>
 
@@ -197,7 +197,7 @@ footer{
           <span>JYSA Sparks</span>
         </div>
 
-        <div class="badge">WIN</div>
+        <div class="badge">LOSS</div>
       </div>
 
       <div class="card">
@@ -221,7 +221,7 @@ footer{
           <span>Sawyer</span>
         </div>
 
-        <div class="badge">WIN</div>
+        <div class="badge">LOSS</div>
       </div>
 
     </div>
@@ -243,6 +243,29 @@ footer{
 
       <div class="card">
         <h3>Fern Creek Red vs JYSA Inferno</h3>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- TEAM NEWS -->
+  <section id="news" style="margin-top:60px;">
+    <h2 class="section-title">Team News</h2>
+
+    <div class="cards">
+
+      <div class="card">
+        <h3>📰 Elijah Lucena Set To Leave Fern Creek Red</h3>
+
+        <p>
+          Goalkeeper Elijah Lucena is expected to leave Fern Creek Red
+          at the end of the season after an impressive year between the posts.
+        </p>
+
+        <p style="margin-top:10px;">
+          Lucena currently leads the team with 48 saves this season.
+        </p>
+
       </div>
 
     </div>
