@@ -197,7 +197,7 @@ footer{
           <span>JYSA Sparks</span>
         </div>
 
-        <div class="badge">LOSS</div>
+        <div class="badge">WIN</div>
       </div>
 
       <div class="card">
@@ -205,11 +205,11 @@ footer{
 
         <div class="match">
           <span>Fern Creek Red</span>
-          <span class="score">1 - 17</span>
+          <span class="score">3 - 2</span>
           <span>Spencer County</span>
         </div>
 
-        <div class="badge">LOSS</div>
+        <div class="badge">WIN</div>
       </div>
 
       <div class="card">
@@ -217,11 +217,11 @@ footer{
 
         <div class="match">
           <span>Fern Creek Red</span>
-          <span class="score">0 - 5</span>
+          <span class="score">5 - 0</span>
           <span>Sawyer</span>
         </div>
 
-        <div class="badge">LOSS</div>
+        <div class="badge">WIN</div>
       </div>
 
     </div>
@@ -255,15 +255,21 @@ footer{
     <div class="cards">
 
       <div class="card">
-        <h3>📰 Elijah Lucena Set To Leave Fern Creek Red</h3>
+        <h3>📰 Fern Creek Saying Goodbye To Stars Lucena & Lopez</h3>
 
         <p>
-          Goalkeeper Elijah Lucena is expected to leave Fern Creek Red
-          at the end of the season after an impressive year between the posts.
+          Fern Creek Red is preparing to say goodbye to two of the team's
+          biggest stars, Elijah Lucena and Willber Lopez.
         </p>
 
         <p style="margin-top:10px;">
-          Lucena currently leads the team with 48 saves this season.
+          Lucena has already officially left the club after leading the team
+          with 48 saves this season.
+        </p>
+
+        <p style="margin-top:10px;">
+          Lopez also looks set to depart after scoring 15 goals this year,
+          making this a difficult loss for Fern Creek Red.
         </p>
 
       </div>
@@ -280,7 +286,7 @@ footer{
       <div class="card">
         <h3>⚽ Top Goal Scorer</h3>
         <p><strong>Willber Lopez</strong></p>
-        <p>14 Goals This Season</p>
+        <p>15 Goals This Season</p>
       </div>
 
       <div class="card">
