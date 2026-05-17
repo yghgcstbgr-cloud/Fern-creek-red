@@ -197,7 +197,7 @@ footer{
           <span>JYSA Sparks</span>
         </div>
 
-        <div class="badge">WIN</div>
+        <div class="badge">LOSS</div>
       </div>
 
       <div class="card">
@@ -221,7 +221,7 @@ footer{
           <span>Sawyer</span>
         </div>
 
-        <div class="badge">WIN</div>
+        <div class="badge">LOSS</div>
       </div>
 
     </div>
@@ -233,12 +233,10 @@ footer{
 
     <div class="cards">
 
-      <div class="card">
-        <h3>Fern Creek Red vs Spencer</h3>
-      </div>
+      
 
       <div class="card">
-        <h3>Fern Creek Red vs JYSA Sparks</h3>
+        <h3>Fern Creek Red vs JYSA Sparks. TODAY </h3>
       </div>
 
       <div class="card">
