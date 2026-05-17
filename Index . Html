@@ -148,6 +148,7 @@ footer{
 <nav>
   <a href="#scores">Final Scores</a>
   <a href="#games">Upcoming Games</a>
+  <a href="#news">Team News</a>
   <a href="#players">Team Info</a>
 </nav>
 
@@ -204,11 +205,11 @@ footer{
 
         <div class="match">
           <span>Fern Creek Red</span>
-          <span class="score">1 - 17</span>
+          <span class="score">3 - 2</span>
           <span>Spencer County</span>
         </div>
 
-        <div class="badge">LOSS</div>
+        <div class="badge">WIN</div>
       </div>
 
       <div class="card">
@@ -247,6 +248,35 @@ footer{
     </div>
   </section>
 
+  <!-- TEAM NEWS -->
+  <section id="news" style="margin-top:60px;">
+    <h2 class="section-title">Team News</h2>
+
+    <div class="cards">
+
+      <div class="card">
+        <h3>📰 Fern Creek Saying Goodbye To Stars Lucena & Lopez</h3>
+
+        <p>
+          Fern Creek Red is preparing to say goodbye to two of the team's
+          biggest stars, Elijah Lucena and Willber Lopez.
+        </p>
+
+        <p style="margin-top:10px;">
+          Lucena has already officially left the club after leading the team
+          with 48 saves this season.
+        </p>
+
+        <p style="margin-top:10px;">
+          Lopez also looks set to depart after scoring 15 goals this year,
+          making this a difficult loss for Fern Creek Red.
+        </p>
+
+      </div>
+
+    </div>
+  </section>
+
   <!-- TEAM INFO -->
   <section id="players" style="margin-top:60px;">
     <h2 class="section-title">Team Information</h2>
@@ -256,7 +286,7 @@ footer{
       <div class="card">
         <h3>⚽ Top Goal Scorer</h3>
         <p><strong>Willber Lopez</strong></p>
-        <p>14 Goals This Season</p>
+        <p>15 Goals This Season</p>
       </div>
 
       <div class="card">
